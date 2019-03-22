@@ -8,6 +8,9 @@ import java.net.ServerSocket;
 import java.net.Socket;
 
 /**
+ * 基于SocketServer的BIO服务端代码
+ * 每接收到一个请求会创建一个线程
+ *
  * @author xuyanhua
  * @description:
  * @date 2019/3/22 上午12:50

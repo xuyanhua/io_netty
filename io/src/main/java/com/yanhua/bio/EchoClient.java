@@ -6,6 +6,8 @@ import java.net.Socket;
 import java.util.concurrent.atomic.AtomicLong;
 
 /**
+ * 基于Socket的BIO客户端代码
+ *
  * @author xuyanhua
  * @description:
  * @date 2019/3/22 上午12:55
